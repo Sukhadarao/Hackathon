@@ -1,0 +1,11 @@
+# Google ADK - AI Agent Development Kit
+google-adk
+
+# Database connectivity
+psycopg2-binary
+
+# Optional: Pretty table formatting
+tabulate
+
+# Type checking (optional, for development)
+# typing-extensions
